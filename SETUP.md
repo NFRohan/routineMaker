@@ -1,6 +1,6 @@
 # RoutineMaker - Multi-Service Setup Guide
 
-This guide explains how to start all the services for the RoutineMaker application.
+This guide explains how to start all the services for the RoutineMaker application for local development.
 
 ## Architecture Overview
 
