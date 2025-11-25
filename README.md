@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Credits
 
 ### Development
-- **Created by**: [Your Name]
+- **Created by**: Nayeem Fardin
 - **Architecture**: Microservices with Docker
 - **AI Assistant**: Google Gemini (Antigravity)
 
