@@ -209,22 +209,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Created by**: Nayeem Fardin
 - **Architecture**: Microservices with Docker
 - **AI Assistant**: Google Gemini (Antigravity)
-
-### Technologies & Libraries
-- **FastAPI Team** - Modern Python web framework
-- **React Team** - UI library
-- **Vite Team** - Frontend build tool
-- **TailwindCSS Team** - CSS framework
-- **PostgreSQL Global Development Group** - Database
-- **ReportLab Team** - PDF generation
-- **Docker Team** - Containerization platform
-
-### Special Thanks
-- FastAPI documentation and community
-- React community and ecosystem
-- Stack Overflow contributors
-- Open source community
-
 ---
 
 ## 📞 Support
