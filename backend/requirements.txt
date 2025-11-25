@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+reportlab
+python-multipart
+python-jose[cryptography]
+gunicorn
+psycopg2-binary
