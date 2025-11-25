@@ -216,8 +216,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For issues, questions, or suggestions:
 - **Issues**: [GitHub Issues](your-repo-url/issues)
 - **Documentation**: See [DEPLOY.md](./DEPLOY.md) and [SETUP.md](./SETUP.md)
-- **Email**: your-email@example.com
-
 ---
 
 ## 🌟 Show Your Support
