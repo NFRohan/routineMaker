@@ -1,4 +1,4 @@
-
+![Screenshot](https://github.com/NFRohan/routineMaker/blob/main/routine_Epox.png "Sample Routine")
 <details>
 <summary>Click to expand local development instructions</summary>
 
